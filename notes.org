@@ -1,0 +1,43 @@
+questions:
+
+the method = system design + project design
+
+or sys x proj ?
+
+design validation
+- address customer reqs
+- address organisation & team capabilities/constraints
+
+"once coding starts, changing the architecture is often unacceptable" p5
+
+following chapters describe how to validate
+
+running out of time / running out of funds is simply unacceptable
+
+design decision tree
+
+not aware of the design decision tree? ~> paralysis by analysis
+
+design the system -> design the project (p7-8)
+
+"if the developers who are tasked with building the system do not understand and value the design, they will butcher it"
+
+The Zen of architects: "For the beginner architect, there are many options of doing pretty much anything. For the master architect, however, there are only a few good options, and typically only one." (p1)
+
+What's your budget?
+
+daily rates for architects, managers, devs (should legal/hr be included?)
+
+
+
+name one engineering principle
+
+science & rationality
+
+parameterizing the real world
+
+science for the sake of usability for humans
+
+chapter 1 2 & 6 for next week
+
+"without prompting ~ AM dad at dinner 'gathering requirements is so much worse now than it was in the 80s'"
